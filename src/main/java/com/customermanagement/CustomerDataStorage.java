@@ -1,3 +1,4 @@
+package com.customermanagement;
 class CustomerDataStorage {
     public void saveToDatabase(Customer customer) {
         // Code to save customer data to the database
