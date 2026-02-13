@@ -28,7 +28,6 @@ public class Customer {
         this.email = email;
     }
 
-    // Override toString for easy printing
     @Override
     public String toString() {
         return "Customer{name='" + name + "', email='" + email + "'}";
